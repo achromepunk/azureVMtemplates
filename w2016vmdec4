@@ -129,7 +129,7 @@
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_w2016vmdec4_name')]",
                     "adminUsername": "useradmin",
-                    "password": "CApwindows2020@",
+                    "adminPassword": "CApwindows2020@",
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
